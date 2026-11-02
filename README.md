@@ -43,11 +43,6 @@ The project explores how machine learning and natural language processing can di
 
 🔗 [View Project on GitHub](https://github.com/MoSalman-progammer/Fake-News-Detection-IUL-Data-Science-Project)
 
-### 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoSalman-progammer&showicons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSalman-progammer&layout=compact&theme=github_dark&hide_border=true)
 
 ### 🌐 Find Me Around the Internet
 
