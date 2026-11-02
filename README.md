@@ -1,68 +1,62 @@
-# Hi, I'm Salman 👋
+# Hey, I'm Mohammad Salman 👋
 
-### Computer Science Student | AI & Machine Learning Enthusiast | Developer
+I'm a Computer Science student with a curious mind and a genuine interest in understanding how technology works.
 
-I'm a Computer Science undergraduate specializing in **Data Science & Artificial Intelligence (DSAI)**. I'm interested in building practical projects, exploring emerging technologies, and understanding how things work under the hood.
+I like exploring ideas, experimenting with different technologies, and figuring things out by building them myself. I'm particularly drawn to Artificial Intelligence and Machine Learning, but my curiosity doesn't stop there. I also enjoy exploring software development, problem-solving, and occasionally stepping into completely new areas of technology.
 
-I enjoy experimenting with technology, solving problems, and continuously learning new skills.
+I don't believe in limiting myself to what I already know. There's a lot I haven't explored yet, and that's what makes this journey interesting.
 
----
+**I'm here to learn, experiment, build, and see where curiosity takes me.**
 
-### 🚀 About Me
+### 🧑‍💻 A Little About Me
 
 - 🎓 Pursuing B.Tech in Computer Science (Data Science & AI).
-- 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science.
-- 💻 Exploring software development and programming.
-- 🔬 Building practical projects to strengthen my technical knowledge.
-- 🌱 Currently improving my programming, problem-solving, and development skills.
-- 🎮 Exploring game development as a creative side interest.
+- 🤖 Particularly interested in Artificial Intelligence, Machine Learning, and Data Science.
+- 💻 Learning programming and strengthening my problem-solving skills.
+- 🔍 I enjoy exploring how technology works behind the scenes.
+- 🎮 Interested in game development and experimenting with creative ideas.
+- 🚀 My long-term goal is to build useful products and eventually create something of my own.
 
----
+### 🛠️ What I'm Exploring
 
-### 🛠️ Technologies & Tools
+| Area | Interests |
+|---|---|
+| Programming | Python, Problem Solving |
+| AI & ML | Machine Learning, Data Science |
+| Computer Science | Data Structures & Algorithms |
+| Development | Software & Game Development |
+| Tools | Git, GitHub, Jupyter Notebook |
 
-**Areas of Interest**
-- Artificial Intelligence & Machine Learning
-- Data Science
-- Software Development
-- Data Structures & Algorithms
-- Game Development
+### 🚀 Projects
 
-**Tools & Technologies**
-- Python
-- Git & GitHub
-- Jupyter Notebook
-- Machine Learning Libraries
+**1. Fake News Detection**
 
----
+A Machine Learning project developed as part of my Data Science coursework.
 
-### 📂 Featured Projects
+The project explores how machine learning and natural language processing can distinguish between fake and authentic news articles.
 
-**[Fake News Detection](https://github.com/MoSalman-progammer/Fake-News-Detection-IUL-Data-Science-Project)**
-
-A Machine Learning project focused on identifying fake and authentic news articles using text classification techniques.
-
-- Dataset preprocessing and cleaning
+- Data cleaning and preprocessing
 - Exploratory Data Analysis
-- Feature extraction and text processing
-- Machine Learning model implementation
-- Model evaluation and comparison
+- Text processing and feature extraction
+- Model training and evaluation
+- Comparison of multiple classification algorithms
 
----
+🔗 [View Project on GitHub](https://github.com/MoSalman-progammer/Fake-News-Detection-IUL-Data-Science-Project)
 
-### 📊 GitHub Statistics
+### 📊 GitHub Overview
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoSalman-progammer&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSalman-progammer&layout=compact&theme=github_dark&hide_border=true)
 
+### 🌐 Find Me Around the Internet
+
+- 💻 **GitHub:** [MoSalman-progammer](https://github.com/MoSalman-progammer)
+- 💼 **LinkedIn:** [Mohammad Salman](https://www.linkedin.com/in/mohammad-salman-517667322/)
+
 ---
 
-### 📫 Connect With Me
+### 💭 A Thought I Believe In
 
+*You don't have to know everything to start building something. You just have to be willing to learn along the way.*
 
-- **GitHub:** [@MoSalman-progammer](https://github.com/MoSalman-progammer)
-- **LinkedIn:** [Mohammad Salman](https://www.linkedin.com/in/mohammad-salman-517667322/)
----
-
-*"Learn by building. Improve by experimenting. Grow by staying curious."*
