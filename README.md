@@ -45,7 +45,7 @@ The project explores how machine learning and natural language processing can di
 
 ### 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoSalman-progammer&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoSalman-progammer&showicons=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoSalman-progammer&layout=compact&theme=github_dark&hide_border=true)
 
